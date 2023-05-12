@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 20 13:25:07 2022
-
-@author: Mark
-"""
 
 from GraphicsLib import *
 import numpy as np

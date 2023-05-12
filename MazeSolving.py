@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 14 21:20:17 2022
 
-@author: Mark
-"""
 from Automatons import *
 import colorsys
 import random

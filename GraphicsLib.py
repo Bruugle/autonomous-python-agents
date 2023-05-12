@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jan 26 12:29:19 2022
 
-@author: Mark
-"""
 
 from tkinter import *
 from tkinter import ttk
